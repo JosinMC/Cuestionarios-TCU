@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "149840747007",
+    "project_id": "firebase-cuestionarios"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149840747007:android:677df3a30b9ea8d8",
+        "android_client_info": {
+          "package_name": "com.tcu.esteban.cuestionarios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149840747007-fct8n05b02fgbijoisdf4ddplaepsski.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tcu.esteban.cuestionarios",
+            "certificate_hash": "D5F633B4904E63E2F666EF22BA1F218D61199D2A"
+          }
+        },
+        {
+          "client_id": "149840747007-bqs91lavhgjo9b9921c9s344dradop09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl6BjFOXCbOxtf7SFPvqSue59BQVwFc44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
